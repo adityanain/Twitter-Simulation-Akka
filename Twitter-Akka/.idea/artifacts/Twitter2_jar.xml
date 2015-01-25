@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="Twitter2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Twitter2_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Twitter2.jar">
+        <element id="module-output" name="Twitter2" />
+      </element>
+      <element id="library" level="application" name="akka" />
+      <element id="library" level="application" name="lib" />
+      <element id="library" level="application" name="scala-compiler" />
+      <element id="library" level="application" name="probability-monad_2.11" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Class-Path: guava-12.0.jar junit-4.11.jar leveldb-0.5.jar config-1.2.1
+ .jar jsr305-1.3.9.jar leveldbjni-1.7.jar leveldb-api-0.5.jar slf4j-ap
+ i-1.7.5.jar camel-core-2.10.3.jar hamcrest-core-1.3.jar netty-3.8.0.F
+ inal.jar leveldbjni-all-1.7.jar leveldbjni-osx-1.5.jar scala-stm_2.11
+ -0.7.jar hawtjni-runtime-1.8.jar protobuf-java-2.5.0.jar leveldbjni-w
+ in32-1.5.jar leveldbjni-win64-1.5.jar scala-reflect-2.11.0.jar scalat
+ est_2.11-2.1.3.jar akka-actor_2.11-2.3.6.jar akka-agent_2.11-2.3.6.ja
+ r akka-camel_2.11-2.3.6.jar akka-slf4j_2.11-2.3.6.jar akka-kernel_2.1
+ 1-2.3.6.jar akka-remote_2.11-2.3.6.jar leveldbjni-linux32-1.5.jar lev
+ eldbjni-linux64-1.5.jar uncommons-maths-1.2.2a.jar akka-cluster_2.11-
+ 2.3.6.jar akka-contrib_2.11-2.3.6.jar akka-testkit_2.11-2.3.6.jar akk
+ a-dataflow_2.11-2.3.6.jar akka-transactor_2.11-2.3.6.jar akka-durable
+ -mailboxes-2.3.6.jar akka-file-mailbox_2.11-2.3.6.jar akka-remote-tes
+ ts_2.11-2.3.6.jar akka-mailboxes-common_2.11-2.3.6.jar akka-multi-nod
+ e-testkit_2.11-2.3.6.jar scala-continuations-library_2.11-1.0.2.jar a
+ kka-persistence-experimental_2.11-2.3.6.jar akka-persistence-tck-expe
+ rimental_2.11-2.3.6.jar servlet.jar junit-4.11.jar jfreesvg-2.0.jar s
+ wtgraphics2d.jar jcommon-1.0.23.jar hamcrest-core-1.3.jar jfreechart-
+ 1.0.19.jar orsonpdf-1.6-eval.jar jfreechart-1.0.19-swt.jar orsonchart
+ s-1.4-eval-nofx.jar jfreechart-1.0.19-experimental.jar scala-reflect.
+ jar scala-library.jar scala-compiler.jar probability-monad_2.11.jar
+Main-Class: Twitter
+
